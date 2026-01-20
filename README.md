@@ -46,11 +46,8 @@
 #### Frontend
 ![Frontend](https://skillicons.dev/icons?i=react,vue,ts,js,tailwind,vite,webpack)
 
-#### UI / Components
-![UI](https://skillicons.dev/icons?i=antdesign,semi,arco,headlessui,vant,element)
-
 #### Backend
-![Backend](https://skillicons.dev/icons?i=nestjs,nodejs,express,koa,csharp,python,go,java,laravel,thinkphp)
+![Backend](https://skillicons.dev/icons?i=nestjs,nodejs,express,python,go,java,laravel,thinkphp)
 
 #### Database
 ![Database](https://skillicons.dev/icons?i=mysql,redis,mongodb)
