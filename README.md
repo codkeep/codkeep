@@ -44,19 +44,29 @@
 ### 🛠 Full Tech Stack · 技术概览
 
 #### Frontend
-![Frontend](https://skillicons.dev/icons?i=react,vue,ts,js,tailwind,vite,webpack)
+![Frontend](https://skillicons.dev/icons?i=react,vue,ts,js,tailwind,vite,webpack,html,css)
 
 #### Backend
-![Backend](https://skillicons.dev/icons?i=nestjs,nodejs,express,python,go,java,laravel,thinkphp)
+![Backend](https://skillicons.dev/icons?i=dotnet,go,nestjs,nodejs,express,python,java,laravel,php)
 
 #### Database
-![Database](https://skillicons.dev/icons?i=mysql,redis,mongodb)
+![Database](https://skillicons.dev/icons?i=mysql,redis,mongodb,postgresql,sqlite)
 
 #### Cross-Platform
 ![Cross](https://skillicons.dev/icons?i=electron,react)
+![React Native](https://skillicons.dev/icons?i=react&perline=1) React Native
 
 #### DevOps / Infra
 ![Infra](https://skillicons.dev/icons?i=docker,linux,windows)
+
+#### Infra & DevOps
+![Infra](https://skillicons.dev/icons?i=docker,linux,windows)
+
+#### Git & Version Control
+![Git](https://skillicons.dev/icons?i=git,github,gitlab)
+
+#### IDE / Editor
+![IDE](https://skillicons.dev/icons?i=vscode,visualstudio,unity,pycharm,webstorm)
 
 ---
 
