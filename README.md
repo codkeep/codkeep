@@ -64,13 +64,6 @@
 #### Other / Cloud & Services
 ![Other](https://skillicons.dev/icons?i=cloudflare,gcp,nginx,ps,postman,pnpm)
 
-### 🧩 Engineering Philosophy · 工程观
-
-- Frontend is a **system**, not a page  
-- Architecture is about **constraints**, not freedom  
-- Complexity should be **designed**, not tolerated  
-- Maintainability > short-term delivery  
-
 ---
 
 ### 📫 Contact
