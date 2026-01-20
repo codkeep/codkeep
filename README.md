@@ -1,4 +1,4 @@
-👋 Hi, I'm codkeep
+👋 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=F7420A&multiline=true&lines=Hi%2C+I'm+codkeep)](https://git.io/typing-svg)
 ---
 
 以 **前端工程化与全链路架构设计** 为核心，长期在真实业务中构建  
