@@ -38,10 +38,10 @@
 ### 🛠 Full Tech Stack · 技术概览
 
 #### Frontend
-![Frontend](https://skillicons.dev/icons?i=react,vue,ts,js,tailwind,vite,webpack,html,css)
+![Frontend](https://skillicons.dev/icons?i=react,vue,pinia,ts,js,tailwind,vite,webpack,html,css)
 
 #### Backend
-![Backend](https://skillicons.dev/icons?i=dotnet,go,nestjs,nodejs,express,python,java,laravel,php)
+![Backend](https://skillicons.dev/icons?i=dotnet,cs,go,nestjs,nodejs,express,python,java,laravel,php)
 
 #### Database
 ![Database](https://skillicons.dev/icons?i=mysql,redis,mongodb,postgresql,sqlite)
@@ -50,14 +50,19 @@
 ![Cross](https://skillicons.dev/icons?i=electron,react)
 
 #### DevOps / Infra
-![Infra](https://skillicons.dev/icons?i=docker,linux,windows)
+![Infra](https://skillicons.dev/icons?i=docker,linux,windows,debian,)
 
 #### Git & Version Control
 ![Git](https://skillicons.dev/icons?i=git,github,gitlab)
 
 #### IDE / Editor
-![IDE](https://skillicons.dev/icons?i=vscode,visualstudio,unity,pycharm,webstorm)
+![IDE](https://skillicons.dev/icons?i=vscode,visualstudio,unity,idea,pycharm,webstorm)
 
+#### CI / CD
+![CI/CD](https://skillicons.dev/icons?i=githubactions,jenkins)
+
+#### Other / Cloud & Services
+![Other](https://skillicons.dev/icons?i=cloudflare,gcp,nginx,ps,postman,pnpm)
 
 ### 🧩 Engineering Philosophy · 工程观
 
