@@ -1,16 +1,84 @@
-## Hi there 👋
+## 👋 Hi, I'm codkeep
 
-<!--
-**codkeep/codkeep** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+> Frontend Engineer · Architecture-Oriented  
+> Build frontend systems with long-term thinking
 
-Here are some ideas to get you started:
+以 **前端工程化与全链路架构设计** 为核心，长期在真实业务中构建  
+**Web / Desktop / Mobile / Cross-Platform** 一体化系统。
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+关注的核心：**系统可演进、工程稳定、复杂度合理**。
+
+---
+
+### 🧠 Focus Areas · 核心方向
+
+- ⚛️ **Frontend Architecture**
+  - React 18 + TypeScript + Vite
+  - Vue2/3 + Pinia + TS + Vite/Webpack
+  - 状态管理 / 数据层 / UI 组件解耦与工程化
+  - UI 组件库整合：Semi / Arco / Ant Design / Element Plus / Vant / Shadcn UI / Headless UI / NextUI
+
+- 🧱 **Backend & System Design**
+  - Node.js: NestJS (Primary) / Express / Koa
+  - C# (.NET 6–9, 主用) / Python (FastAPI / AI) / Go (Nunu 微服务) / Java (Spring Boot / Spring MVC) / ThinkPHP / Laravel
+  - 数据库：MySQL / Redis / MongoDB
+
+- 🖥️ **Cross-Platform & Desktop**
+  - Electron
+  - C# + WebView2 / CefSharp + Vue / React（现代桌面 WebUI 架构）
+  - Taro / Uni-App / React Native / 小程序（微信 / 钉钉）
+
+- 🤖 **AI & Specialized**
+  - Python 模型二次开发 / 整合 / API
+  - Unity 游戏开发 / MOD
+  - UI 设计 / 美工
+
+- 🛠 **Engineering & Infra**
+  - Docker / Docker Compose / Remote API
+  - Linux (Debian / Ubuntu) / Windows
+  - GitHub / GitLab / Gitee
+  - 面向对象编程 / 常用设计模式 / 工程化体系
+
+---
+
+### 🛠 Full Tech Stack · 技术概览
+
+#### Frontend
+![Frontend](https://skillicons.dev/icons?i=react,vue,ts,js,tailwind,vite,webpack)
+
+#### UI / Components
+![UI](https://skillicons.dev/icons?i=antdesign,semi,arco,headlessui,vant,element)
+
+#### Backend
+![Backend](https://skillicons.dev/icons?i=nestjs,nodejs,express,koa,csharp,python,go,java,laravel,thinkphp)
+
+#### Database
+![Database](https://skillicons.dev/icons?i=mysql,redis,mongodb)
+
+#### Cross-Platform
+![Cross](https://skillicons.dev/icons?i=electron,react)
+
+#### DevOps / Infra
+![Infra](https://skillicons.dev/icons?i=docker,linux,windows)
+
+---
+
+### 🧩 Engineering Philosophy · 工程观
+
+- Frontend is a **system**, not a page  
+- Architecture is about **constraints**, not freedom  
+- Complexity should be **designed**, not tolerated  
+- Maintainability > short-term delivery  
+
+---
+
+### 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=codkeep&show_icons=true&theme=dark&hide_border=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=codkeep&layout=compact&theme=dark&hide_border=true)
+
+---
+
+### 📫 Contact
+
+- GitHub: https://github.com/codkeep
