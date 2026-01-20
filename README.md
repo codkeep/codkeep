@@ -6,8 +6,6 @@
 
 关注的核心：**系统可演进、工程稳定、复杂度合理**。
 
----
-
 ### 🧠 Focus Areas · 核心方向
 
 - ⚛️ **Frontend Architecture**
@@ -37,8 +35,6 @@
   - GitHub / GitLab / Gitee
   - 面向对象编程 / 常用设计模式 / 工程化体系
 
----
-
 ### 🛠 Full Tech Stack · 技术概览
 
 #### Frontend
@@ -62,7 +58,6 @@
 #### IDE / Editor
 ![IDE](https://skillicons.dev/icons?i=vscode,visualstudio,unity,pycharm,webstorm)
 
----
 
 ### 🧩 Engineering Philosophy · 工程观
 
