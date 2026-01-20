@@ -54,7 +54,6 @@
 
 #### Cross-Platform
 ![Cross](https://skillicons.dev/icons?i=electron,react)
-![React Native](https://skillicons.dev/icons?i=react&perline=1) React Native
 
 #### DevOps / Infra
 ![Infra](https://skillicons.dev/icons?i=docker,linux,windows)
