@@ -1,7 +1,42 @@
-## 👋 Hi, I'm codkeep
+<h1 align="center">
+  <span class="glow">👋 Hi, I'm codkeep</span>
+</h1>
 
-> Frontend Engineer · Architecture-Oriented  
-> Build frontend systems with long-term thinking
+<style>
+.glow {
+  font-size: 3em;
+  font-weight: 900;
+  background: linear-gradient(90deg, #00FFFF, #FF00FF, #FFFF00, #00FF00, #00FFFF);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  animation: neon 2s ease-in-out infinite alternate;
+}
+
+@keyframes neon {
+  0% {
+    text-shadow:
+      0 0 5px #fff,
+      0 0 10px #fff,
+      0 0 20px #0ff,
+      0 0 30px #0ff,
+      0 0 40px #0ff,
+      0 0 55px #0ff,
+      0 0 75px #0ff;
+  }
+  100% {
+    text-shadow:
+      0 0 10px #fff,
+      0 0 20px #fff,
+      0 0 30px #ff0,
+      0 0 40px #ff0,
+      0 0 50px #ff0,
+      0 0 65px #ff0,
+      0 0 85px #ff0;
+  }
+}
+</style>
+
+---
 
 以 **前端工程化与全链路架构设计** 为核心，长期在真实业务中构建  
 **Web / Desktop / Mobile / Cross-Platform** 一体化系统。
@@ -56,9 +91,6 @@
 ![Cross](https://skillicons.dev/icons?i=electron,react)
 
 #### DevOps / Infra
-![Infra](https://skillicons.dev/icons?i=docker,linux,windows)
-
-#### Infra & DevOps
 ![Infra](https://skillicons.dev/icons?i=docker,linux,windows)
 
 #### Git & Version Control
