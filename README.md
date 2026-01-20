@@ -69,13 +69,6 @@
 
 ---
 
-### 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=codkeep&show_icons=true&theme=dark&hide_border=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=codkeep&layout=compact&theme=dark&hide_border=true)
-
----
-
 ### 📫 Contact
 
 - GitHub: https://github.com/codkeep
