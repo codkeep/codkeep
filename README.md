@@ -16,7 +16,7 @@
 
 - 🧱 **Backend & System Design**
   - Node.js: NestJS (Primary) / Express / Koa
-  - C# (.NET 6–9, 主用) / Python (FastAPI / AI) / Go (Nunu 微服务) / Java (Spring Boot / Spring MVC) / ThinkPHP / Laravel
+  - C# (.NET 6–9, 主用) / Python (FastAPI / AI) / Go (Nunu) / Java (Spring Boot / Spring MVC) / ThinkPHP / Laravel
   - 数据库：MySQL / Redis / MongoDB
 
 - 🖥️ **Cross-Platform & Desktop**
